@@ -27,3 +27,5 @@ A minimalist, high-performance note-taking application written in Rust using the
     bash
 
     cargo run --release
+
+    Use code with caution.
